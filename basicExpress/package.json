@@ -1,0 +1,14 @@
+{
+  "name": "basicexpress",
+  "version": "1.0.0",
+  "description": "Installing and using Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anay Dongre",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
